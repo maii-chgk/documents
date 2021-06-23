@@ -41,18 +41,18 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 1. Die Mitgliedschaft in dem Verein ist eine individuelle Mitgliedschaft.
 2. Das Mitgliederverzeichnis wird vom Vorstand geführt, der berechtigt ist, diese Aufgabe an ein anderes Organ zu delegieren.
 3. Die Befugnis zum Eintritt und zum Ausschluss von Mitgliedern obliegt der Mitgliederversammlung, kann aber an ein anderes Organ delegiert werden.
+4. Ein Vereinsmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung nicht mitgezählt.
 
 ## Eintritt zum Verein
 
 1. Der Eintritt zum Verein erfolgt auf der Grundlage eines schriftlich oder per E-Mail eingereichten Antrags.
-2. Die Entscheidung über die Verweigerung des Eintritts zu dem Verein kann innerhalb von 14 Tagen (еin Tag entspricht dabei 24 Stunden) von der Mitgliederversammlung oder ihrem autorisierten Organ getroffen werden. Fehlt eine solche Entscheidung, wird der Antragsteller Mitglied des Vereins.
+2. Die Entscheidung über die Verweigerung des Eintritts zu dem Verein kann innerhalb von 14 Tagen (ein Tag entspricht hier und nachfolgend 24 Stunden) von der Mitgliederversammlung oder ihrem autorisierten Organ getroffen werden. Fehlt eine solche Entscheidung, wird der Antragsteller Mitglied des Vereins.
 3.  Die Mitgliederversammlung kann förmliche Kriterien beschließen, bei deren Erfüllung dem Antragsteller den Eintritt nicht verwehrt werden kann.
-4.  Ein Vereinsmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung nicht mitgezählt.
 
 ## Beendigung der Mitgliedschaft
 
 1. Für den freiwilligen Austritt aus dem Verein genügt eine Mitteilung in Schriftform oder per E-Mail. Die Mitgliedschaft gilt mit dem Eingang des Antrags als automatisch beendet.
-2.  Für den Fall, dass der Verein disziplinarische Sanktionen gegen sein Mitglied verhängt, ist eine Suspendierung seiner Mitgliedschaft für die Dauer der Sanktionen möglich. Die Suspendierung  der Mitgliedschaft bedeutet die Unfähigkeit zur Teilnahme an den Mitgliederversammlungen und an der Arbeit der Organe des Vereins. Die Mitgliedschaft kann durch die Mitgliederversammlung oder das Organ, dem die Mitgliederversammlung diese Befugnis übertragen hat, suspendiert werden.
+2. Im Falle der Verhängung von Disziplinarstrafen durch den Verein gegen ein Mitglied oder bei verspäteter Zahlung des Mitgliedsbeitrages (falls von der Mitgliederversammlung festgelegt) ist die Suspendierung der Mitgliedschaft im Verein möglich. Die Suspendierung der Mitgliedschaft bedeutet die Unfähigkeit zur Teilnahme an der Mitgliederversammlung und an der Arbeit der Organe des Vereins sowie die Nichtberücksichtigung bei dem Quorum der Mitgliederversammlung. Die Mitgliedschaft wird wiederhergestellt, nachdem die Sanktion aufgehoben oder die ausstehende Gebühr bezahlt wurde.
 3. Als Gründe für einen Ausschluss aus dem Verein können gelten:
     - Beschluss der Mitgliederversammlung.
     - Nichtzahlung der Mitgliedsbeiträge (sofern dieser von der Mitgliederversammlung festgesetzt sind).
@@ -76,16 +76,16 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 
 ## Allgemeine Bestimmungen
 
-1. <a name="ref_p1_4_1_1"></a>Die Organe des Vereins sind die Mitgliederversammlung, der Vorstand, die Arbeitsgruppen und der Prüfungsausschuss.
+1. <a name="ref_p1_4_1_1"></a>Die Organe des Vereins sind die Mitgliederversammlung, der Vorstand, die Arbeitsgruppen und der Kontrollausschuss
 2. In die gewählten Organe können sowohl Mitglieder als auch Nicht-Mitglieder des Vereins  gewählt werden.
 
 ## Mitgliederversammlung
 
 1. Oberstes Organ des Vereins ist die Mitgliederversammlung. Die Beschlüsse der Mitgliederversammlung haben Vorrang vor den Beschlüssen anderer Organe. Die Mitgliederversammlung kann sich über einen Beschluss eines anderen Organs hinwegsetzen.
 2. Die Mitgliederversammlung findet als Präsenzveranstaltung oder in Form einer Online-Konferenz unter Einsatz von Technologien statt, die eine Identifizierung der Teilnehmer ermöglichen. Im Falle einer Präsenzversammlung müssen eine Online-Übertragung und eine Fernabstimmung gewährleistet sein.
-3. Die Mitgliederversammlung kann auf Initiative jedes Organs oder jeder Initiativgruppe einberufen werden. Bestimmt der Vorstand den Termin der Mitgliederversammlung nicht innerhalb von 1 Monat nach Antragstellung, so kann der Einberufer den Termin der Mitgliederversammlung bestimmen.
+3. Die Mitgliederversammlung kann auf Initiative jedes Organs oder jeder Initiativgruppe einberufen werden. Bestimmt der Vorstand den Termin der Mitgliederversammlung nicht innerhalb von 30 Tagen nach Antragstellung, so kann der Einberufer den Termin der Mitgliederversammlung bestimmen.
 4. Die Mitglieder des Vereins sind spätestens 21 Tage vor der Mitgliederversammlung in schriftlicher oder elektronischer Form zur Mitgliederversammlung einzuladen.
-5. Die Tagesordnung der Mitgliederversammlung wird vom Vorstand spätestens 14 Tage vor der Versammlung aufgestellt und veröffentlicht. Das Recht, Themen in die Tagesordnung einzubringen, haben alle Organe sowie Initiativgruppen. Im letzteren Fall kann das Thema auch nach der Veröffentlichung auf die Tagesordnung gesetzt werden.
+5. Die Tagesordnung der Mitgliederversammlung wird vom Vorstand spätestens 14 Tage vor der Versammlung aufgestellt und veröffentlicht. Das Recht, Themen in die Tagesordnung einzubringen, haben alle Organe sowie Initiativgruppen. Im letzteren Fall kann das Thema auch nach der Veröffentlichung auf die Tagesordnung gesetzt werden, jedoch spätestens 7 Tage vor der Mitgliederversammlung.
 6. Die Beschlussfähigkeit der Mitgliederversammlung beträgt 25 % der Mitglieder, unabhängig davon, ob die Versammlung persönlich oder online abgehalten wird. Eine Übertragung der Stimmrechte ist nicht zulässig.
 7. Beschlüsse der Mitgliederversammlung werden mit einfacher Stimmenmehrheit gefasst, mit Ausnahme der in [Punkten 5.1](#ref5_1) und [5.2](#ref5_2) beschriebenen Fälle und Entscheidungen, für die ein anderes Verfahren von der Mitgliederversammlung festgelegt wird.
 8. Zur ausschließlichen Zuständigkeit der Mitgliederversammlung gehören die folgenden Angelegenheiten:
