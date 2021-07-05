@@ -8,3 +8,4 @@
 - [Регламент проведения Общего собрания](general-meeting-regulations.ru.md)
     - [Приложение. Список площадок, используемых для подготовки и проведения ОС](general-meeting-appendix.ru.md)
 - [Положение о РГ](working-groups.ru.md)
+    - [Приложение. Шаблон регламента РГ](wg/_template.ru.md)
