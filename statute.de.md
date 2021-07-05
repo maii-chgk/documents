@@ -77,7 +77,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 ## Allgemeine Bestimmungen
 
 1. <a name="ref_p1_4_1_1"></a>Die Organe des Vereins sind die Mitgliederversammlung, der Vorstand, die Arbeitsgruppen und der Kontrollausschuss
-2. In die gewählten Organe können sowohl Mitglieder als auch Nicht-Mitglieder des Vereins  gewählt werden.
+2. Mitglieder des Vorstands, der Arbeitsgruppen, des Kontrollausschusses können sowohl Mitglieder als auch Nichtmitglieder des Vereins sein.
 
 ## Mitgliederversammlung
 
@@ -91,9 +91,8 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 8. Zur ausschließlichen Zuständigkeit der Mitgliederversammlung gehören die folgenden Angelegenheiten:
     - Annahme der Statuten und deren Änderungen.
     - Zustimmung zu den Dokumenten, die die Regeln der intellektuellen Spielen bestimmen.
-    - Wahl der Mitglieder des Vorstands, der Arbeitsgruppen, der Kontrollausschusses.
+    - Wahl der Mitglieder des Vorstands und des Kontrollausschusses.
     - Vorzeitige Beendigung der Befugnisse anderer Organe.
-    - Bildung und Auflösung der Arbeitsgruppen (mit Ausnahme der temporären), Zustimmung zu den Dokumenten, die ihre Tätigkeit regeln.
     - Gründung und Auflösung zusätzlicher, nicht in [Punkt 4.1.1](#ref_p1_4_1_1) aufgeführter Organe.
     - Annahme von Berichten anderer Organe über deren Aktivitäten.
     - Festsetzung und Aufhebung von Mitgliedsbeiträgen.
@@ -108,7 +107,6 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
     - Bestimmt die Termine der Mitgliederversammlungen, gestaltet und veröffentlicht deren Tagesordnung.
     - Organisiert die Mitgliederversammlungen.
     - Organisiert die Interaktion zwischen den Arbeitsgruppen.
-    - Kann temporäre Arbeitsgruppen bilden.
     - Führt das Mitgliederverzeichnis des Vereins.
     - Verwaltet die Mittel und das Eigentum des Vereins.
     - Bereitet Berichte über seine Aktivitäten für die Mitgliederversammlung vor. Die Häufigkeit der Berichte wird von der Mitgliederversammlung festgelegt.
@@ -118,11 +116,10 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 ## Arbeitsgruppen
 
 1. Arbeitsgruppen sind Organe, die zur Durchführung bestimmter Aktivitäten des Vereins eingerichtet werden.
-2. Arbeitsgruppen werden durch den Beschluss der Mitgliederversammlung gebildet und aufgelöst.
-3. Die Amtszeit und die personelle Zusammensetzung der Mitglieder der einzelnen Arbeitsgruppen werden von der Mitgliederversammlung festgelegt. Nach Aufnahme der Arbeit kann die Gruppe weitere Mitglieder in ihre Mitgliedschaft kooptieren. Jeder Beschluss zur Kooptation ist von der nächsten Mitgliederversammlung zu überprüfen und kann widerrufen werden.
-4. In der Zeit zwischen den Mitgliederversammlungen können durch Beschluss des Vorstands temporäre Arbeitsgruppen mit zeitlich begrenzter Mitgliedschaft eingerichtet werden. Die nächste Mitgliederversammlung hat die Entscheidung des Vorstands zu bestätigen oder aufzuheben. Im Falle der Zustimmung bildet die Mitgliederversammlung eine ständige Gruppe, im Falle der Ablehnung entscheidet sie über die Gültigkeit der von der vorläufigen Gruppe getroffenen Entscheidungen.
-5. Ein und dieselbe Person kann gleichzeitig Mitglied des Vorstands und der Arbeitsgruppe sein. Ein und dieselbe Person kann gleichzeitig Mitglied in mehreren Arbeitsgruppen sein.
-6. Arbeitsgruppen:
+2. Arbeitsgruppen werden durch den Beschluss der Mitgliederversammlung gebildet und aufgelöst. Darüber hinaus kann der Beschluss zur Bildung einer Arbeitsgruppe zwischen den Mitgliederversammlungen auf der Grundlage der Ergebnisse einer elektronischen Abstimmung der Vereinsmitglieder gefasst werden, vorausgesetzt, die Anzahl der Teilnehmer an der Abstimmung entspricht dem Quorum der Mitgliederversammlung.
+3. Jede Arbeitsgruppe wird auf der Grundlage ihrer eigenen Satzung tätig. Die Entscheidung über die Annahme der Satzung wird gleichzeitig mit der Entscheidung über die Bildung der Arbeitsgruppe getroffen.
+4. Ein und dieselbe Person kann gleichzeitig Mitglied des Vorstands und der Arbeitsgruppe sein. Ein und dieselbe Person kann gleichzeitig Mitglied in mehreren Arbeitsgruppen sein.
+5. Arbeitsgruppen:
     - Beschäftigen sich mit der Analyse von Fragen im Zusammenhang mit den Spielregeln, Wettbewerben, der Informationsunterstützung für die Aktivitäten des Vereins, der Einhaltung der Spielethik, dem Budget des Vereins, der Zusammenarbeit mit anderen Organisationen usw.
     - Erarbeiten die Entwürfe für interne normative Dokumente des Vereins zur Prüfung durch die Mitgliederversammlung.
     - Erstellen die Berichte über ihre Aktivitäten für die Mitgliederversammlung. Die Zeitabstände für die Berichte werden von der Mitgliederversammlung festgelegt.
