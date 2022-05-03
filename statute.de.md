@@ -97,6 +97,14 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
     - Annahme von Berichten anderer Organe über deren Aktivitäten.
     - Festsetzung und Aufhebung von Mitgliedsbeiträgen.
     - Auflösung des Vereins.
+9. Angelegenheiten, die nicht zur ausschließlichen Zuständigkeit der Mitgliederversammlung gehören, können sowohl während der Mitgliederversammlung als auch durch elektronische Stimmabgabe der Mitglieder ohne Einberufung einer Mitgliederversammlung (nachstehend "elektronische Stimmabgabe" genannt) entschieden werden.
+10. Jedes Organ oder jede Initiativgruppe der Mitglieder kann eine elektronische Stimmabgabe initiieren. Die elektronische Stimmabgabe wird vom Vorstand vorbereitet und durchgeführt.
+11. Die elektronische Stimmabgabe muss die folgenden Anforderungen erfüllen:
+   - Alle Mitglieder müssen mindestens 3 Tage im Voraus über die elektronische Stimmabgabe informiert werden.
+   - Die elektronische Stimmabgabe dauert 1 Tag. Wenn es mehrere Abstimmungsrunden gibt, dauert jede Abstimmungsrunde 1 Tag.
+   - Damit eine elektronische Stimmabgabe gültig ist, muss die Anzahl der Teilnehmer dem Quorum der Mitgliederversammlung entsprechen.
+12. Die Abstimmungen während der Mitgliederversammlung sind grundsätzlich offen, die namentlichen Abstimmungsergebnisse werden allen Mitgliedern nach Abschluss der Abstimmung zugänglich gemacht. Das Gleiche gilt für die elektronische Stimmabgabe. Eine geheime Abstimmung über einzelne Angelegenheiten kann durch Beschluss der Mitgliederversammlung oder durch elektronische Stimmabgabe festgelegt werden.
+13. Wenn ein Dokument während einer Mitgliederversammlung oder elektronischen Stimmabgabe zur Abstimmung vorgelegt wird, muss ein Entwurf dieses Dokuments spätestens 7 Tage vor der Mitgliederversammlung oder elektronischen Stimmabgabe zur Diskussion veröffentlicht werden. Der endgültige Text muss spätestens 3 Tage vor der Mitgliederversammlung oder der elektronischen Stimmabgabe veröffentlicht werden.
 
 ## Vorstand
 
@@ -116,7 +124,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 ## Arbeitsgruppen
 
 1. Arbeitsgruppen sind Organe, die zur Durchführung bestimmter Aktivitäten des Vereins eingerichtet werden.
-2. Arbeitsgruppen werden durch den Beschluss der Mitgliederversammlung gebildet und aufgelöst. Darüber hinaus kann der Beschluss zur Bildung einer Arbeitsgruppe zwischen den Mitgliederversammlungen auf der Grundlage der Ergebnisse einer elektronischen Abstimmung der Vereinsmitglieder gefasst werden, vorausgesetzt, die Anzahl der Teilnehmer an der Abstimmung entspricht dem Quorum der Mitgliederversammlung.
+2. Arbeitsgruppen werden durch den Beschluss der Mitgliederversammlung gebildet und aufgelöst. Darüber hinaus kann der Beschluss zur Bildung einer Arbeitsgruppe zwischen den Mitgliederversammlungen auf der Grundlage der Ergebnisse einer elektronischen Stimmabgabe der Vereinsmitglieder gefasst werden.
 3. Jede Arbeitsgruppe wird auf der Grundlage ihrer eigenen Satzung tätig. Die Entscheidung über die Annahme der Satzung wird gleichzeitig mit der Entscheidung über die Bildung der Arbeitsgruppe getroffen.
 4. Ein und dieselbe Person kann gleichzeitig Mitglied des Vorstands und der Arbeitsgruppe sein. Ein und dieselbe Person kann gleichzeitig Mitglied in mehreren Arbeitsgruppen sein.
 5. Arbeitsgruppen:
