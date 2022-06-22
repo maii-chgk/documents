@@ -45,13 +45,13 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 
 ## Eintritt zum Verein
 
-1. Der Eintritt zum Verein erfolgt auf der Grundlage eines schriftlich oder per E-Mail eingereichten Antrags.
+1. Der Eintritt zum Verein erfolgt auf der Grundlage eines schriftlich oder per [E-Mail](mailto:ispolkom@maii.li) eingereichten Antrags.
 2. Die Entscheidung über die Verweigerung des Eintritts zu dem Verein kann innerhalb von 14 Tagen (ein Tag entspricht hier und nachfolgend 24 Stunden) von der Mitgliederversammlung oder ihrem autorisierten Organ getroffen werden. Fehlt eine solche Entscheidung, wird der Antragsteller Mitglied des Vereins.
 3.  Die Mitgliederversammlung kann förmliche Kriterien beschließen, bei deren Erfüllung dem Antragsteller den Eintritt nicht verwehrt werden kann.
 
 ## Beendigung der Mitgliedschaft
 
-1. Für den freiwilligen Austritt aus dem Verein genügt eine Mitteilung in Schriftform oder per E-Mail. Die Mitgliedschaft gilt mit dem Eingang des Antrags als automatisch beendet.
+1. Für den freiwilligen Austritt aus dem Verein genügt eine Mitteilung in Schriftform oder per [E-Mail](mailto:ispolkom@maii.li). Die Mitgliedschaft gilt mit dem Eingang des Antrags als automatisch beendet.
 2. Im Falle der Verhängung von Disziplinarstrafen durch den Verein gegen ein Mitglied oder bei verspäteter Zahlung des Mitgliedsbeitrages (falls von der Mitgliederversammlung festgelegt) ist die Suspendierung der Mitgliedschaft im Verein möglich. Die Suspendierung der Mitgliedschaft bedeutet die Unfähigkeit zur Teilnahme an der Mitgliederversammlung und an der Arbeit der Organe des Vereins sowie die Nichtberücksichtigung bei dem Quorum der Mitgliederversammlung. Die Mitgliedschaft wird wiederhergestellt, nachdem die Sanktion aufgehoben oder die ausstehende Gebühr bezahlt wurde.
 3. Als Gründe für einen Ausschluss aus dem Verein können gelten:
     - Beschluss der Mitgliederversammlung.
