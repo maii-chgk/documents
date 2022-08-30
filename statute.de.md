@@ -41,7 +41,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 1. Die Mitgliedschaft in dem Verein ist eine individuelle Mitgliedschaft.
 2. Das Mitgliederverzeichnis wird vom Vorstand geführt, der berechtigt ist, diese Aufgabe an ein anderes Organ zu delegieren.
 3. Die Befugnis zum Eintritt und zum Ausschluss von Mitgliedern obliegt der Mitgliederversammlung, kann aber an ein anderes Organ delegiert werden.
-4. Ein Vereinsmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung nicht mitgezählt.
+4. Ein Vereinsmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung oder an der elektronischen Stimmabgabe der Mitglieder ohne Einberufung der Mitgliederversammlung nicht mitgezählt.
 
 ## Eintritt zum Verein
 
