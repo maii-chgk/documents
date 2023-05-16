@@ -6,6 +6,8 @@
 - [Правила](https://github.com/maii-chgk/documents/blob/main/wg/rules/other/rules.ru.md)
 - [Положение об эгиде и рейтинге МАИИ](https://github.com/maii-chgk/documents/blob/main/aegis-rating.ru.md)
 - [Положение о чемпионате мира](https://github.com/maii-chgk/documents/blob/main/wg/tg/worldchamp.ru.md)
+- [Положение о членстве МАИИ](membership.ru.md)
+- [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддержавших военную агрессию РФ против Украины](suspension.ru.md)
 
 ## Общие собрания
 
@@ -70,7 +72,7 @@
 - [Регламент](https://github.com/maii-chgk/documents/blob/main/wg/rules/rules_group.ru.md)
 
 ##### Результаты работы
-- [Правила КВРМ](https://github.com/maii-chgk/documents/blob/main/wg/rules/rules_group.ru.md)
+- [Правила КВРМ](https://github.com/maii-chgk/documents/blob/main/wg/rules/other/rules.ru.md)
 - [Результаты опроса по принципам зачёта ответов](https://github.com/maii-chgk/documents/blob/main/wg/rules/other/2022_02_17_poll_results.md)
 
 #### Группа по рейтингу
@@ -145,14 +147,14 @@
 ### Ранее действовали
 
 #### Противоэпидемическая группа
-- [Регламент](https://github.com/maii-chgk/documents/blob/main/wg/anti-epidemic.ru.md)
+- [Регламент](https://github.com/maii-chgk/documents/blob/main/wg/anti-epidemic/anti-epidemic.ru.md)
 
 ##### Рекомендации
 
-- [Как снизить риск COVID-19 на интеллектуальных играх](https://github.com/maii-chgk/documents/blob/main/covid-rick.ru.md)
+- [Как снизить риск COVID-19 на интеллектуальных играх](https://github.com/maii-chgk/documents/blob/main/wg/anti-epidemic/other/covid-rick.ru.md)
 
 #### Группа по разработке брендов
-- [Регламент](https://github.com/maii-chgk/documents/blob/main/wg/brand.ru.md)
+- [Регламент](https://github.com/maii-chgk/documents/blob/main/wg/brands/brand.ru.md)
 
 ##### Документы
 - [Итоги опроса о названиях](https://github.com/maii-chgk/documents/blob/main/wg/brands/naming_poll_results.md)
