@@ -35,6 +35,7 @@
 - [№ 3 от 12.05.2021](executive-committee/protocols/3--2021-05-12.ru.md)
 - [№ 4 от 12.05.2021](executive-committee/protocols/4--2021-05-12.ru.md)
 - [№ 5 от 06.06.2021](executive-committee/protocols/5--2021-06-06.ru.md)
+- [# 6 от 09.05.2023](executive-committee/protocols/6--2023-05-09.ru.md)
 
 #### Решения
 
