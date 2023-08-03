@@ -35,7 +35,7 @@
 - [№ 3 от 12.05.2021](executive-committee/protocols/3--2021-05-12.ru.md)
 - [№ 4 от 12.05.2021](executive-committee/protocols/4--2021-05-12.ru.md)
 - [№ 5 от 06.06.2021](executive-committee/protocols/5--2021-06-06.ru.md)
-- [# 6 от 09.05.2023](executive-committee/protocols/6--2023-05-09.ru.md)
+- [№ 6 от 09.05.2023](executive-committee/protocols/6--2023-05-09.ru.md)
 
 #### Решения
 
@@ -69,6 +69,9 @@
 #### Группа по переводу документов
 - [Регламент](wg/translation.ru.md)
 
+##### Отчёты
+- [Отчёт о работе за 2021-2023 годы](wg/translation/reports/translation_report_2123.md)
+
 #### Группа по правилам
 - [Регламент](wg/rules/rules_group.ru.md)
 
@@ -85,6 +88,7 @@
 ##### Отчёты
 - [29.04.2022](wg/rating/reports/rg_report_2022_04_29.md)
 - [24.08.2022](wg/rating/reports/rg_report_2022_08_24.md)
+- [27.02.2023](wg/rating/reports/rg_report_2023_02_27.md)
 
 #### Дисциплинарная группа
 - [Регламент](wg/dg/disciplinary.ru.md)
@@ -106,12 +110,12 @@
 ##### Отчёты
 
 - [Отчёт о работе в 2021-2022 годах](wg/dg/reports/dg_report_2122.md)
+- [Отчёт о работе в 2022-2023 годах](wg/dg/reports/dg_report_2223.md)
 
 #### Информационная группа
 - [Регламент](wg/ig/info.ru.md)
 
 ##### Отчёты
-
 - [Отчёт о работе в 2021-2022 годах](wg/ig/reports/ig_report_2122.md)
 
 ##### Другое
@@ -124,6 +128,9 @@
 - [Положение о чемпионате мира](wg/tg/worldchamp.ru.md)
 - [Положение об эгиде и рейтинге](aegis-rating.ru.md)
 
+##### Отчёты
+- [Отчёт о работе за 2021-2023 годы](wg/tg/reports/tg_report_2123.md)
+
 ##### Решения и пояснения
 - [Показ вопросов на экранах на рейтингуемых турнирах](wg/tg/other/questions_on_screen.md)
 
@@ -132,12 +139,14 @@
 
 ##### Отчёты
 - [Отчёт о работе за 2021-2022 годы](wg/statutory/reports/stg_report_2122.md)
+- [Отчёт о работе за 2022-2023 годы](wg/statutory/reports/stg_report_2223.md)
 
 #### Юридическая группа
 - [Регламент](wg/juridical/juridical.ru.md)
 
 ##### Отчёты
 - [Отчёт о работе за 2021-2022 годы](wg/juridical/reports/yg_report_2122.md)
+- [Отчёт о работе за 2022-2023 годы](wg/juridical/reports/yg_report_2223.md)
 
 ##### Другое
 - [Рекомендации организаторам турниров](wg/juridical/organizators.ru.md)
