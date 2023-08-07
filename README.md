@@ -65,6 +65,7 @@
 ##### Отчёты
 - [19.02.2022](wg/it/reports/it_report_2022_02_19.md)
 - [27.07.2022](wg/it/reports/it_report_2022_07_27.md)
+- [06.08.2023](wg/it/reports/it_report_2023_08_06.md)
 
 #### Группа по переводу документов
 - [Регламент](wg/translation.ru.md)
