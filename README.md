@@ -80,6 +80,9 @@
 - [Правила КВРМ](wg/rules/other/rules.ru.md)
 - [Результаты опроса по принципам зачёта ответов](wg/rules/other/2022_02_17_poll_results.md)
 
+#### Отчёты
+- [11.08.2023](wg/rules/reports/rules_report_2023_08_11.md)
+
 #### Группа по рейтингу
 - [Регламент](wg/rating/rating.ru.md)
 
