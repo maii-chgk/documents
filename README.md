@@ -15,11 +15,12 @@
     - Приложение к регламенту проведения ОС: [список площадок, используемых для проведения ОС](general-meeting/documents/general-meeting-appendix.ru.md)
 
 ### Протоколы:
-- [03.07.2021](general-meeting/protocols/july.21.ru.md)
-- [30.04.2022](general-meeting/protocols/may.22.ru.md)
-- [28.08.2022](general-meeting/protocols/august.22.ru.md)
-- [21.12.2022](general-meeting/protocols/december.22.ru.md)
-- [30.04.2023](general-meeting/protocols/may.23.ru.md)
+- [03.07.2021](general-meeting/protocols/21.july.ru.md)
+- [30.04.2022](general-meeting/protocols/22.may.ru.md)
+- [28.08.2022](general-meeting/protocols/22.august.ru.md)
+- [21.12.2022](general-meeting/protocols/22.december.ru.md)
+- [30.04.2023](general-meeting/protocols/23.may.ru.md)
+- [10.03.2024](general-meeting/protocols/24.march.ru.md)
 
 ## Рабочие органы
 
@@ -79,6 +80,9 @@
 ##### Результаты работы
 - [Правила КВРМ](wg/rules/other/rules.ru.md)
 - [Результаты опроса по принципам зачёта ответов](wg/rules/other/2022_02_17_poll_results.md)
+- [Ответ на вопрос о подвопросах](wg/rules/other/2023-10-19-podvoprosy.md) (19 октября 2023 года)
+- [Ответ на вопрос о роли организационной группы](wg/rules/other/2024-03-25-predstavitel.md) (25 марта 2024 года)
+- [Ответ на вопрос об описательных ответах](wg/rules/other/2024-03-28-opisatelnye-otvety.md) (28 марта 2024 года)
 
 #### Отчёты
 - [11.08.2023](wg/rules/reports/rules_report_2023_08_11.md)
@@ -111,6 +115,8 @@
 - [№9 от 06.04.2023 (по поводу бессрочной дисквалификации Романа Черняева)](wg/dg/acts/dg_act_9.md)
 - [№10 от 29.04.2023 (по поводу дисквалификации Ксении Немчиновой)](wg/dg/acts/dg_act_10.md)
 - [№11 от 17.08.2023 (по поводу дисквалификации Игоря Койфмана)](wg/dg/acts/dg_act_11.md)
+- [№12 от 08.02.2024 (по поводу команды «Полусухарик»)](wg/dg/acts/dg_act_12.md)
+- [№13 от 28.03.2024 (по поводу площадки в Усть-Каменогорске)](wg/dg/acts/dg_act_13.md)
 
 ##### Отчёты
 
