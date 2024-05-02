@@ -100,6 +100,7 @@
 - [29.04.2022](wg/rating/reports/rg_report_2022_04_29.md)
 - [24.08.2022](wg/rating/reports/rg_report_2022_08_24.md)
 - [27.02.2023](wg/rating/reports/rg_report_2023_02_27.md)
+- [08.04.2024](wg/rating/reports/rg_report_2024_04_08.md)
 
 #### Дисциплинарная группа
 - [Регламент](wg/dg/disciplinary.ru.md)
