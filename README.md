@@ -55,6 +55,7 @@
 #### Отчёты
 - [Отчёт о работе за 2021-2022 годы](audit-commission/reports/ac_report_2122.md)
 - [Отчёт о работе за 2022-2023 годы](audit-commission/reports/ac_report_2223.md)
+- [Отчёт о работе за 2023-2024 годы](audit-commission/reports/ac_report_2324.md)
 
 ### Рабочие группы
 
