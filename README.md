@@ -132,12 +132,14 @@
 
 - [Отчёт о работе в 2021-2022 годах](wg/dg/reports/dg_report_2122.md)
 - [Отчёт о работе в 2022-2023 годах](wg/dg/reports/dg_report_2223.md)
+- [Отчёт о работе в 2023-2024 годах](wg/dg/reports/dg_report_2324.md)
 
 #### Информационная группа
 - [Регламент](wg/ig/info.ru.md)
 
 ##### Отчёты
 - [Отчёт о работе в 2021-2022 годах](wg/ig/reports/ig_report_2122.md)
+- [Отчёт о работе в 2023-2024 годах](wg/ig/reports/ig_report_2324.md)
 
 ##### Другое
 - [Итоги опроса «Навстречу редакторам»](wg/ig/other/editors_poll_results.md)
@@ -161,6 +163,7 @@
 ##### Отчёты
 - [Отчёт о работе за 2021-2022 годы](wg/statutory/reports/stg_report_2122.md)
 - [Отчёт о работе за 2022-2023 годы](wg/statutory/reports/stg_report_2223.md)
+- [Отчёт о работе за 2023-2024 годы](wg/statutory/reports/stg_report_2324.md)
 
 #### Юридическая группа
 - [Регламент](wg/juridical/juridical.ru.md)
